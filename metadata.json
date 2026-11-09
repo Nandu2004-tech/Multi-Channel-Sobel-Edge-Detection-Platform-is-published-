@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Channel Sobel Edge Detection Platform",
+  "description": "Interactive Computer Vision research workbench, visual comparator, and pedagogical system comparing Multi-Channel RGB Sobel edge detection with traditional grayscale Sobel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
